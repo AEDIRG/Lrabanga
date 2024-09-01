@@ -1,0 +1,36 @@
+*{
+    background: lightgoldenrodyellow;
+}
+h1{
+    color: black;
+    text-align: center;
+}
+
+.First h2{
+    text-align: center;
+}
+div{
+    font-size: 1.5rem;
+}
+p{
+    font-size: 1.5rem;
+}
+ol li{
+    font-size: 1.5rem;
+}
+a{
+    position: relative;
+    left: 45%;
+    border: 3px green solid;
+    text-decoration: none;
+    padding: 15px;
+    color: black;
+    font-size: 1.2rem;
+    font-weight: 600;
+    transition: 1s all ease-out;
+}a:hover{
+    background: lightgreen;
+    color: white;
+    font-size: 1.3rem;
+    border-radius: 20px;
+}

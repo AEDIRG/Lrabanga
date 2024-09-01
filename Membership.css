@@ -1,0 +1,17 @@
+h1{
+    color: green;
+    border-bottom: 5px gold solid;
+    width: 140px;
+}
+
+.First img, h2{
+    position: relative;
+    left: 150px;
+}
+p{
+    position: relative;
+    width: 40%;
+    left: 52%;
+    bottom: 420PX;
+    line-height: 30PX;
+}
